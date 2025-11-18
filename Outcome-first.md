@@ -1,4 +1,4 @@
-# HLS Tech Leadership: Automation, Governance, Adoption
+# Leadership: Automation, Governance, Adoption
 
 I lead end-to-end delivery for enterprise collaboration and AI adoption in Health & Life Sciences. This repo showcases the work I’ve driven solo: large-scale Exchange Online migrations, M365 tenant automation, and secure Copilot governance.
 
