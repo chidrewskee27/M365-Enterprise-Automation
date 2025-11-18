@@ -4,7 +4,7 @@ I lead end-to-end delivery for enterprise collaboration and AI adoption in Healt
 
 ## Highlights
 - 50k mailbox migration automated with PowerShell to reduce manual effort by 60% while improving quality
-- NASA-scale tenant automation to keep 88k+ objects compliant and efficient
+- Large-scale tenant automation to keep 88k+ objects compliant and efficient
 - Executive-ready Copilot governance playbooks used to accelerate safe adoption
 
 ## What’s inside
